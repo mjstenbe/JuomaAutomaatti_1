@@ -12,7 +12,7 @@ public class Silmukka {
 	
 	// loputon silmukka, joka kysyy juomaa
 
-	for(;;) {
+	for(;;) { // Tämän funktiota en ymmärtänyt? Tuo do-while silmukkahan hoitaa jo homman
 	
 	do {
 		System.out.println("********Juoma Automaatti********");
